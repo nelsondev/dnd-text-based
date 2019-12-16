@@ -1,0 +1,17 @@
+{
+    "version":"2.0.0",
+    "tasks": [
+        {
+            "label": "Python3 Test",
+            "type": "shell",
+            "command": [
+                "C:/Users/nelso/AppData/Local/Programs/Python/Python38-32/python.exe",
+                "d:/Source/personal/dnd-text-based/play.py"
+            ],
+            "group": {
+                "kind": "test",
+                "isDefault": true
+            }
+        }
+    ]
+}
